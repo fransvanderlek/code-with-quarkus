@@ -32,7 +32,6 @@
   <dependencies>
       
       <!--
-<!-- https://mvnrepository.com/artifact/org.apache.camel.quarkus/camel-quarkus-milo-parent -->
 <dependency>
     <groupId>org.apache.camel.quarkus</groupId>
     <artifactId>camel-quarkus-milo-parent</artifactId>
